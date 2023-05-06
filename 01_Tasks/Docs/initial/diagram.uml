@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes />
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="0.4096" showDependencies="true" x="774.001953125" y="275.857421875" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>Open Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
