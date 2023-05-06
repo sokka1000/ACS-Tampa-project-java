@@ -1,0 +1,9 @@
+tasks\services\DateServiceTest.class
+tasks\unitTest\TaskTest.class
+tasks\model\ArrayTaskListTest.class
+tasks\model\TaskTest.class
+tasks\integration\ArrayTaskListTest.class
+tasks\integration\ServiceTaskTest.class
+tasks\model\IncomingPeriodTaskTest.class
+tasks\unitTest\ArrayTaskListTest.class
+tasks\unitTest\TasksServiceTest.class

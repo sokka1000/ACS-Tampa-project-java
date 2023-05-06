@@ -23,3 +23,15 @@ e
 .src/main/java/tasks/model/TasksOperations.java,4\f\4f01b9f8917f794cdf589fb86ab1f8dec2bc64a1
 X
 (src/main/java/tasks/services/TaskIO.java,2\6\26c7ae39591499fab3685c25bb4834dc2fc7cf24
+]
+-.idea/libraries/Maven__junit_junit_4_13_2.xml,5\4\54f4510b91c2683595ce2e8f36b90b301f51d8d3
+q
+A.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_22.xml,a\c\ac7712c25ff8c695f1451903b7f82deea00034cd
+k
+;.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_22.xml,8\8\8839a9c295a725f0e7e6fe152661dcc82ab6bd10
+r
+B.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_5_0_0.xml,f\9\f9bb5b183545da052d0f3e01345306158742b670
+i
+9.idea/libraries/Maven__org_mockito_mockito_core_5_0_0.xml,b\0\b012e20648e982df0298b2a96e51d0b1b5dc4900
+f
+6.idea/libraries/Maven__org_objenesis_objenesis_3_3.xml,9\3\93942b34ad371933cca193fb5989c844734fda79
