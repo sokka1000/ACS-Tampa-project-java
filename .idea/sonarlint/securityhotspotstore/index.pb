@@ -3,12 +3,6 @@ _
 /src/main/java/tasks/exceptions/ExceptionIO.java,7\5\753fc982de48eb4e6a60e607c0c2fce2f30aa1d4
 _
 /src/main/java/tasks/controller/Notificator.java,9\0\90f3d1b886ea9e6023b322a07a34e807fd489693
-I
-logs/task-manager-log.log,0\9\0959973df7556b24c6d773e780902c3037687e4c
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
-]
--.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 a
 1src/test/java/tasks/services/DateServiceTest.java,e\b\eb67f05314178cc6b3a1e4f981a808f271e00c26
 ]

@@ -83,9 +83,9 @@ class ArrayTaskListTest {
     void addValidTaskBVA() {
         // Arrange
         ArrayTaskList taskList = new ArrayTaskList();
-        var start = new Date();
+        Date start = new Date();
         start.setDate(start.getDate()+1);
-        var end = new Date();
+        Date end = new Date();
         end.setDate(start.getDate()+1);
         Task taskWithStartTimeGreaterThanEndTime = new Task("alabala",start,end, 20);
 
@@ -103,9 +103,9 @@ class ArrayTaskListTest {
     void addTaskWithInvalidStartTimeBVA(){
         // Arrange
         ArrayTaskList taskList = new ArrayTaskList();
-        var date = new Date();
+        Date date = new Date();
         date.setDate(date.getDate()+1);
-        var date1 = new Date();
+        Date date1 = new Date();
         date1.setDate(date.getDate()-1);
 
         // Act & Assert
@@ -118,7 +118,7 @@ class ArrayTaskListTest {
     void addValidTaskBVA_2() throws ParseException {
         // Arrange
         ArrayTaskList taskList = new ArrayTaskList();
-        var date = new Date();
+        Date date = new Date();
         date.setDate(date.getDate()+1);
         Task taskWithStartTimeGreaterThanEndTime = new Task("alabala", sdf.parse("2024-01-01 08:00"), sdf.parse("2024-01-01 09:00"), 1);
 

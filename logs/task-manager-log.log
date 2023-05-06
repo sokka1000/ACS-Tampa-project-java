@@ -316,3 +316,18 @@
 2023-05-06 09:47:03 ERROR Task:67 - start date is in the past
 2023-05-06 09:47:04 ERROR Task:51 - start date is in the past
 2023-05-06 09:47:04 ERROR Task:46 - time below bound
+2023-05-06 16:49:01 INFO  Main:36 - saved data reading
+2023-05-06 16:49:01 INFO  Main:41 - application start
+2023-05-06 16:49:01 INFO  Controller:75 - Main controller initializing
+2023-05-06 16:51:16 ERROR Task:71 - interval < than 1
+2023-05-06 16:51:16 ERROR Task:67 - start date is in the past
+2023-05-06 16:51:16 ERROR Task:67 - start date is in the past
+2023-05-06 16:51:33 ERROR Task:71 - interval < than 1
+2023-05-06 16:51:33 ERROR Task:67 - start date is in the past
+2023-05-06 16:51:34 ERROR Task:51 - start date is in the past
+2023-05-06 16:51:34 ERROR Task:46 - time below bound
+2023-05-06 16:51:57 ERROR Task:71 - interval < than 1
+2023-05-06 16:51:57 ERROR Task:67 - start date is in the past
+2023-05-06 16:51:57 ERROR Task:67 - start date is in the past
+2023-05-06 16:51:58 ERROR Task:51 - start date is in the past
+2023-05-06 16:51:58 ERROR Task:46 - time below bound
